@@ -35,9 +35,13 @@ Self-taught. No CS degree. Shipped real products for real clients.
 
 ---
 
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafarawhy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true)
+### Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarawhy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mostafarawhy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
+
+</div>
 
 ---
 
