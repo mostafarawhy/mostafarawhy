@@ -1,20 +1,15 @@
 <div align="center">
-```
-╔══════════════════════════════════════════════════════════════╗
-║  MOSTAFA RAWHY  ·  CAIRO, EGYPT  ·  FRONTEND ENGINEER        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
+**`MOSTAFA RAWHY · CAIRO, EGYPT · FRONTEND ENGINEER`**
 
 </div>
 
-Eight years leading people under pressure. Now I build software instead.  
+Eight years leading people under pressure. Now I build software instead.
 Self-taught. No CS degree. Shipped real products for real clients.
 
 ---
 
 ### Stack
-
-<div>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -26,37 +21,22 @@ Self-taught. No CS degree. Shipped real products for real clients.
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-</div>
-
 ---
 
 ### Projects
 
-**[DentaFlow](https://clinic-os-alpha.vercel.app)** — Full-stack dental clinic management system built for a real client on Upwork. Role-based access (admin, dentist, receptionist), appointment scheduling, analytics dashboard, and patient management. Next.js 15 · Prisma · PostgreSQL · NextAuth.js
+**[DentaFlow](https://clinic-os-alpha.vercel.app)** — Full-stack dental clinic management system built for a real client on Upwork. Role-based access (admin, dentist, receptionist), appointment scheduling, analytics dashboard, and patient management. `Next.js 15` `Prisma` `PostgreSQL` `NextAuth.js`
 
-**[GitTrack](https://github.com/mostafarawhy/gittrack)** — GitHub analytics dashboard with AI-generated developer profiling. Layered architecture with a mapping abstraction over the GitHub API, streamed AI output via OpenRouter. Next.js · TypeScript · Recharts
+**[GitTrack](https://git-trac-k.vercel.app/)** — GitHub analytics dashboard with AI-generated developer profiling. Layered architecture with a mapping abstraction over the GitHub API, streamed AI output via OpenRouter. `Next.js` `TypeScript` `Recharts`
 
-**[Dermatique](https://github.com/mostafarawhy/dermatique)** — Full-stack e-commerce platform with JWT auth, Google OAuth, PayPal integration, and debounced product search. React · Node.js · MongoDB
+**[Dermatique](https://dermatique-e-commerce-skincare-prod.vercel.app/)** — Full-stack e-commerce platform with JWT auth, Google OAuth, PayPal integration, and debounced product search. `React` `Node.js` `MongoDB`
 
-**[Foodies-Gram](https://github.com/mostafarawhy/foodies-gram)** — Real-time social platform with custom hooks architecture, multi-provider OAuth, and live updates. React · Firebase · Framer Motion
-
----
-
-### Stats
-
-<div align="center">
-
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafarawhy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarawhy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
+**[Foodies-Gram](https://github.com/mostafarawhy/Foodies-Gram)** — Real-time social platform with custom hooks architecture, multi-provider OAuth, and live updates. `React` `Firebase` `Framer Motion`
 
 ---
 
 ### Currently
-```
-Status   →  Open to work
-Target   →  Remote frontend roles · Startups preferred
-Contact  →  mostafarawhydev@gmail.com
-```
+
+> **Status** → Open to work
+> **Target** → Remote frontend roles · Startups preferred
+> **Contact** → mostafarawhydev@gmail.com
