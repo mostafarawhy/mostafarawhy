@@ -26,16 +26,16 @@ Self-taught. No CS degree. Shipped real products for real clients.
 ### Projects
 
 **[DentaFlow](https://clinic-os-alpha.vercel.app)** — Full-stack dental clinic management system built for a real client on Upwork. Role-based access (admin, dentist, receptionist), appointment scheduling, analytics dashboard, and patient management. `Next.js 15` `Prisma` `PostgreSQL` `NextAuth.js`
-**[DentaFlow](https://github.com/mostafarawhy/ClinicOS)** 
+**[DentaFlow-repo](https://github.com/mostafarawhy/ClinicOS)** 
 
 **[GitTrack](https://git-trac-k.vercel.app/)** — GitHub analytics dashboard with AI-generated developer profiling. Layered architecture with a mapping abstraction over the GitHub API, streamed AI output via OpenRouter. `Next.js` `TypeScript` `Recharts`
-**[GitTrack](https://github.com/mostafarawhy/GitTrack)** 
+**[GitTrack-repo](https://github.com/mostafarawhy/GitTrack)** 
 
 
 **[Dermatique](https://dermatique-e-commerce-skincare-prod.vercel.app/)** — Full-stack e-commerce platform with JWT auth, Google OAuth, PayPal integration, and debounced product search. `React` `Node.js` `MongoDB`
-**[Dermatique](https://github.com/mostafarawhy/Dermatique-E-commerce-skincare-products)** 
+**[Dermatique-repo](https://github.com/mostafarawhy/Dermatique-E-commerce-skincare-products)** 
 
-**[Foodies-Gram](https://github.com/mostafarawhy/Foodies-Gram)** — Real-time social platform with custom hooks architecture, multi-provider OAuth, and live updates. `React` `Firebase` `Framer Motion`
+**[Foodies-Gram-repo](https://github.com/mostafarawhy/Foodies-Gram)** — Real-time social platform with custom hooks architecture, multi-provider OAuth, and live updates. `React` `Firebase` `Framer Motion`
 
 ---
 
