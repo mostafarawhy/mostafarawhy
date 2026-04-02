@@ -4,6 +4,8 @@
 
 </div>
 
+USE --  https://git-trac-k.vercel.app/   -- AI ANALYTICS for any github and summary dashboard. ! Try it its faster!
+
 Eight years leading people under pressure. Now I build software instead.
 Self-taught. No CS degree. Shipped real products for real clients.
 
