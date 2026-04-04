@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/DentaFlow-Live_Demo-0066cc?style=flat-square)](https://clinic-os-alpha.vercel.app)
 [![GitTrack](https://img.shields.io/badge/GitTrack-Live_Demo-0066cc?style=flat-square)](https://git-trac-k.vercel.app)
 [![Email](https://img.shields.io/badge/Email-mostafarawhydev@gmail.com-333?style=flat-square)](mailto:mostafarawhydev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Rawhy-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mostafa-rawhy)
+[![LinkedIn](https://www.linkedin.com/in/mostafa-rawhy-b7ab522b2/)](https://www.linkedin.com/in/mostafa-rawhy)
 
 </div>
 
@@ -67,11 +67,7 @@ Real-time social platform with custom hooks architecture, multi-provider OAuth, 
 ### Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafarawhy&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarawhy&layout=compact&theme=default&hide_border=true&hide=html,css)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=mostafarawhy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
 </div>
 
 ---
