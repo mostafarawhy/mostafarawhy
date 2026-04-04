@@ -68,16 +68,8 @@ Real-time social platform with custom hooks architecture, multi-provider OAuth, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafarawhy&show_icons=true&hide_border=true&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafarawhy&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarawhy&layout=compact&hide_border=true&hide=html,css)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to work** · Remote frontend roles · Startups preferred
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarawhy&layout=compact&hide_border=true&hide=html,css&theme=dark)
 
 </div>
