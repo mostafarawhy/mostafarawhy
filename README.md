@@ -67,7 +67,11 @@ Real-time social platform with custom hooks architecture, multi-provider OAuth, 
 ### Stats
 
 <div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=mostafarawhy&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafarawhy&show_icons=true&hide_border=true&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafarawhy&layout=compact&hide_border=true&hide=html,css)
+
 </div>
 
 ---
