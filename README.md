@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/DentaFlow-Live_Demo-0066cc?style=flat-square)](https://clinic-os-alpha.vercel.app)
 [![GitTrack](https://img.shields.io/badge/GitTrack-Live_Demo-0066cc?style=flat-square)](https://git-trac-k.vercel.app)
 [![Email](https://img.shields.io/badge/Email-mostafarawhydev@gmail.com-333?style=flat-square)](mailto:mostafarawhydev@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/mostafa-rawhy-b7ab522b2/)](https://www.linkedin.com/in/mostafa-rawhy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Rawhy-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mostafa-rawhy-b7ab522b2/)
 
 </div>
 
